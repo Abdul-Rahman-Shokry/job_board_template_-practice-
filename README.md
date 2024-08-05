@@ -2,7 +2,7 @@
 
 This repository contains a frontend template that I am using for practice purposes.
 
-**Note:** This template was provided by colorlib.com and is not my original work.
+**Note:** This template was provided by colorlib.com and it is not my original work.
 
 ## Purpose
 
